@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #AEECEF;
+}
+
+header {
+    background-color:#a0d8df ;
+    color: black;
+    padding: 10px 0;
+    text-align: center;
+    
+}
+
+nav ul {
+    list-style:disc;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+#about, #portfolio, #contact{
+    font-size: 12px;
+
+}
+
+#portfolio{
+    margin-top: 5px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 5px 0 5px o;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    height: 22px;
+    font-size: 10px;
+}
+
+#contact{
+    margin: 10px 0 10px 0;
+}
